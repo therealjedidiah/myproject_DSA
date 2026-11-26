@@ -1,4 +1,6 @@
 console.log("Hello World!")
    
-let student_name = "Bisola Aiyeola";
-console.log(student_name);
+let age = 12;
+if (age === 13){
+    console.log("Mary, welcome to TEENS CHURCH!")
+}
